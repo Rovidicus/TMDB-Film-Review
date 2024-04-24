@@ -2,7 +2,7 @@ import streamlit as st
 # Create multiple pages from apps in pages folder
 st.set_page_config()
 
-st.title("The Tasteful Language of Film Reviews")
+st.title("Film Critique ")
 st.subheader("by Luke Hobbs")
 
 st.markdown("This is my analysis of film reviews from a natural language processing perspective. The objective is to predict from a given text if a review is positive or negative toward a film.")
